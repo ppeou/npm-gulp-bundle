@@ -1,0 +1,1 @@
+window.jquery = () => {return 'jquery'};
